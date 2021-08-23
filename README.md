@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KuKuSHANiN
+- 👋 Hi, I’m @KuKuSHANiN  or Dima
 - 👀 I’m interested in AI-tech, exo-siutTech, Airsoft-games & any comp games)
 - 🌱 I’m currently learning Java, PostgreSQL and how does frontend work.
 - 💞️ I’m looking to collaborate with thosw who will move me forward.
